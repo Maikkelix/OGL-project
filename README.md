@@ -1,5 +1,4 @@
-# Oulu Game Lab
-# Soul Odyssey | Mobile Game
+# Soul Odyssey | Mobile Game | Oulu Game Lab
 
 This is a mobile game project that began in the Autumn 2020 at the Oulu Game Lab. My main role in this project was mainly to desing and implement the enemy AI pattern, shop UI and sound related to menu sounds. Game was made by C# and used Unity as a development environment.
 

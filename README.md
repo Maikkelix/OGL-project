@@ -1,2 +1,2 @@
-# OGL-project
-Soul Odyssey
+# Oulu Game Lab
+# Soul Odyssey | Mobile Game
